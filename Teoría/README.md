@@ -148,4 +148,4 @@ Este es completamente **gratis** para todos. Solo hay que descargarlo: [SourceTr
 
 Obtenga el cliente legendario de GitKraken. Incluye una GUI de Git intuitiva y una potente CLI de Git
 
-Este es el más avanzado y pro pero cuesta y creo no hay opción estudiantil. Si el dinero se los permite más adelante pueden usarlo. Este es el que por lo general veo que les encanta a los usuarios Windows por lo parecido a Visual Studio. Hay prueba gratis [Gitkraken](https://www.gitkraken.com)
+Este es el más avanzado y pro pero cuesta lo mejor... hay opción estudiantil con el github student! :D. Es mi fav y lo llevo usando unos dos años, es el que recomiendo porque está muy bueno, completo y bonito C:  [Gitkraken](https://www.gitkraken.com)
